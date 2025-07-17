@@ -11,7 +11,7 @@ How to configure osTicket before using it
 ##  Step 2: Generate a "Supreme Admin" role
 - Admin Panel - Agents - Roles
 - Add New Role - `"Supreme Admin"`
-- Assign ALL permissons, tasks, and Knowledge
+- Assign ALL permissions, tasks, and Knowledge
 
 _ _ _
 
@@ -35,3 +35,5 @@ _ _ _
 
 _ _ _
 ### Step 6: Generate "Agents" (Workers)
+- Admin Panel - Agents - Add New
+- 

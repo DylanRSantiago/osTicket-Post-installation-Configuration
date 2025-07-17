@@ -36,4 +36,25 @@ _ _ _
 _ _ _
 ### Step 6: Generate "Agents" (Workers)
 - Admin Panel - Agents - Add New
-- 
+- Generate two accounts *Jane & John*
+### Jane Doe: 
+- &nbsp;&nbsp;&nbsp;&nbsp;Username: Jane  
+-&nbsp;&nbsp;&nbsp;&nbsp;Last name: Doe  
+-&nbsp;&nbsp;&nbsp;&nbsp;Email: JaneD@gmail.com  
+-&nbsp;&nbsp;&nbsp;&nbsp;Password: Password1  
+-&nbsp;&nbsp;&nbsp;&nbsp;Department: Sys Admins  
+-&nbsp;&nbsp;&nbsp;&nbsp;Access: Supreme Admin  
+-&nbsp;&nbsp;&nbsp;&nbsp;Team: Online Banking
+
+### John Doe: 
+- &nbsp;&nbsp;&nbsp;&nbsp;Username: John 
+-&nbsp;&nbsp;&nbsp;&nbsp;Last name: Doe  
+-&nbsp;&nbsp;&nbsp;&nbsp;Email: JohnD@gmail.com  
+-&nbsp;&nbsp;&nbsp;&nbsp;Password: Password1  
+-&nbsp;&nbsp;&nbsp;&nbsp;Department: Support  
+-&nbsp;&nbsp;&nbsp;&nbsp;Access: Supreme Admin  
+-&nbsp;&nbsp;&nbsp;&nbsp;Team: Online Banking
+
+_ _ _
+
+### Step 7: Configure "Users(customers)"

@@ -58,3 +58,14 @@ _ _ _
 _ _ _
 
 ### Step 7: Configure "Users(customers)"
+Agent Panel - Users - Add User
+- Email: KarenS@gmail.com
+- Full Name: Karen Sanchez
+
+_ _ _ 
+
+### Step 8: Configure "SLA"
+ Admin Panel - Manage - SLA
+   - `Sev-A` (Grace Period: 1 hour, Schedule: 24/7)  
+   - `Sev-B` (Grace Period: 4 hours, Schedule: 24/7)  
+   - `Sev-C` (Grace Period: 8 hours, Schedule: Business Hours)  

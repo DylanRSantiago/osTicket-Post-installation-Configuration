@@ -31,7 +31,10 @@ _ _ _
 ### Step 5: Allow anyone to create tickets
 - Admin panel - Settings - User Settings
 - Uncheck: `"Require registration and login to create tickets"`
-- Click "*Save Settings*"
+- Click "*Save Changes*"
+
+  <img width="1034" height="744" alt="Lab 2 pics" src="https://github.com/user-attachments/assets/6733339f-58e8-4fc8-abb2-03d66f386cc5" />
+
 
 _ _ _
 ### Step 6: Generate "Agents" (Workers)
@@ -61,6 +64,9 @@ _ _ _
 Agent Panel - Users - Add User
 - Email: KarenS@gmail.com
 - Full Name: Karen Sanchez
+
+  <img width="1125" height="485" alt="lab 2 pic 4" src="https://github.com/user-attachments/assets/47d27262-47fa-4cfa-a91d-56b81a4a4735" />
+This is how it should look when done adding a user
 
 _ _ _ 
 

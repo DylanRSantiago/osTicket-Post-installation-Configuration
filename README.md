@@ -75,3 +75,18 @@ _ _ _
    - `Sev-A` (Grace Period: 1 hour, Schedule: 24/7)  
    - `Sev-B` (Grace Period: 4 hours, Schedule: 24/7)  
    - `Sev-C` (Grace Period: 8 hours, Schedule: Business Hours)  
+
+### Step 9: Configure Help Topics
+Help topics are a list that will pop up for end users when creating a ticket
+- Admin - **Manage** - **Help Topics**
+- **Create the following help topcis/ Types**:
+  - `Business Critical Outage/ Report a Problem`
+  - `Personal Computer Issues/ Report a Problem`
+  - `Equipment Request/ General Inquiry`
+  - `Password Reset/ Report a Problem`
+
+_ _ _
+
+### This concludes this project in setting up the osTickeing system 
+
+
